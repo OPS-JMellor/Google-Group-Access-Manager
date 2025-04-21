@@ -23,7 +23,7 @@ Perfect for K-12 districts, this Apps Script + Google Sheet setup helps manage:
 
 ### `Form Responses 1` tab (auto-filled by the form)
 
-| Timestamp | Student Name | Student Email | School | Start Date | End Date | Email Address | Requester Email | Status | Notes |
+| Timestamp | Student Name | Student Email | School | Start Date | End Date | Email Address(Hidden Column) | Requester Email | Status | Notes |
 |-----------|--------------|---------------|--------|------------|----------|----------------|------------------|--------|-------|
 
 - **Requester Email** = who submitted the form (will get confirmation emails)
