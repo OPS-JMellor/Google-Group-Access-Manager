@@ -116,7 +116,7 @@ Feel free to fork this repo and submit pull requests! Suggestions welcome for:
 
 ## 📜 License
 
-[MIT License](LICENSE) – free to use, share, and modify.
+Free to use, share, and modify.
 
 ---
 
