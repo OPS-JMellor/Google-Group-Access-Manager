@@ -110,7 +110,7 @@ Go to the Apps Script Trigger Panel:
 Feel free to fork this repo and submit pull requests! Suggestions welcome for:
 - Multi-group support
 - Admin override panels
-- Slack integration or alerts
+- Other integrations or alerts
 
 ---
 
