@@ -120,4 +120,4 @@ Feel free to fork this repo and submit pull requests! Suggestions welcome for:
 
 ---
 
-💡 Created by [Your Name or District] to save time and sanity for K-12 tech admins everywhere.
+💡 Created by Joel Mellor - Orono Schools to save time and sanity for K-12 tech admins everywhere.
